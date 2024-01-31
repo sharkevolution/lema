@@ -47,3 +47,28 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+
+
+# lema
+ipyparallel
+ipydatagrid
+
+pyviz-comms
+panel
+python-dateutil		# matplotlib, pandas
+pytz              	# via pandas
+six               	# via cycler, python-dateutil
+numpy
+pyarrow
+pandas
+openpyxl
+tqdm
+
+pymorphy3~=2.0.1
+pymorphy3-dicts-ru
+pymorphy3-dicts-uk
+gspread
+langdetect
+
+
